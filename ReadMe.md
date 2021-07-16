@@ -1,4 +1,3 @@
-
 # Filter List
 ## Description
 Filter list is a project that does the selection of a specific word in a list of words using vanilla JavaScript.
@@ -8,8 +7,11 @@ We have a search bar where the search text is inputted. The entered word is chec
 Next the words in our list that match the enterred text are displayed and the others disappear.  
 
 ---
-<img src="./images/initial.jpg" alt="preview">
-<img src="./images/inaction.jpg" alt="preview">
+## Preview
+
+https://user-images.githubusercontent.com/76742818/125940117-c4723b05-8e59-42a7-bf48-668d35c537b3.mp4
+
+---
 
 ## Motivation
 
